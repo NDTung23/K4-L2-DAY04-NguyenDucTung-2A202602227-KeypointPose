@@ -59,10 +59,8 @@ Làm cá nhân — không có bạn cùng nhóm để đối chiếu visibility 
 
 ### Trả lời năm câu hỏi ở cuối notebook
 
-*(Sẽ trả lời sau khi có kết quả model)*
-
-1.
-2.
+1. 
+2. 
 3.
 4.
 5.
