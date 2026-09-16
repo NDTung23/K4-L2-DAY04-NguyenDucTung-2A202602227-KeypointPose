@@ -50,10 +50,11 @@ Làm cá nhân — không có bạn cùng nhóm để đối chiếu visibility 
 
 | Chỉ số | yolo26n-pose gốc | Sau fine-tune | Chênh |
 | --- | ---: | ---: | ---: |
-| pose_mAP50 | | | |
+| pose_mAP50 |0. | | |
 | pose_mAP50-95 | | | |
 | pose_precision | | | |
 | pose_recall | | | |
+| box_mAP50 | | | |
 | box_mAP50-95 | | | |
 
 ### Trả lời năm câu hỏi ở cuối notebook
